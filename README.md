@@ -13,5 +13,5 @@
 - [stetho 로 android debugging을 보다 쉽게](https://medium.com/@sungyong/stetho-%EB%A1%9C-android-debugging%EC%9D%84-%EB%B3%B4%EB%8B%A4-%EC%89%BD%EA%B2%8C-54bb5fa0c6ee)
 - [ViewPager와 Fragment를 활용하여 효율적인 UI 구성하기](https://coding-factory.tistory.com/206)
 
-### 1. Architecture
+### 1) Architecture
  - [[Android] LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/)
