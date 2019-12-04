@@ -6,6 +6,7 @@
 - [코틀린 Cheat Sheet](https://www.raywenderlich.com/6362971-kotlin-cheat-sheet-and-quick-reference)
 - [Generics, Invariance, Covariance, Contravariance](https://codechacha.com/ko/generics-class-function-in-kotlin/)
 - [코틀린에서 reified는 왜 쓸까?](https://sungjk.github.io/2019/09/07/kotlin-reified.html)
+- [[Kotlin] Parcelable 적용](https://nobase-dev.tistory.com/238)
 
 ## 2. 안드로이드
 - [Timber 사용하기](https://onemask514.tistory.com/16)
