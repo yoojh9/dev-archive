@@ -13,6 +13,7 @@
 - [Android 네트워크 트래픽 디버깅 (by Stetho)](https://medium.com/@joongwon/android-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%8A%B8%EB%9E%98%ED%94%BD-%EB%94%94%EB%B2%84%EA%B9%85-bfce67956a56)
 - [stetho 로 android debugging을 보다 쉽게](https://medium.com/@sungyong/stetho-%EB%A1%9C-android-debugging%EC%9D%84-%EB%B3%B4%EB%8B%A4-%EC%89%BD%EA%B2%8C-54bb5fa0c6ee)
 - [ViewPager와 Fragment를 활용하여 효율적인 UI 구성하기](https://coding-factory.tistory.com/206)
+- [R8 Shrinking in Android](https://medium.com/better-programming/r8-shrinking-in-android-27f3edbbad9e)
 
 ### 1) Architecture
  - [[Android] LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/)
