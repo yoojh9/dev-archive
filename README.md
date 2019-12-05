@@ -16,4 +16,4 @@
 - [R8 Shrinking in Android](https://medium.com/better-programming/r8-shrinking-in-android-27f3edbbad9e)
 
 ### 1) Architecture
- - [[Android] LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/)
+ - [[Android] LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/) 
