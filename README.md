@@ -17,3 +17,6 @@
 
 ### 1) Architecture
  - [[Android] LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/) 
+ 
+### 2) 안드로이드 학습자료
+ - [Google codelab] (https://codelabs.developers.google.com/?cat=Android)
