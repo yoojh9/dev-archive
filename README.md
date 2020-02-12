@@ -20,3 +20,6 @@
  
 ### 2) 안드로이드 학습자료
  - [Google codelab] (https://codelabs.developers.google.com/?cat=Android)
+
+## 3. Infra
+- [[번역] 10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
